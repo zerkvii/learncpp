@@ -7,5 +7,8 @@ int main(){
     yams[1]=8;
     yams[1]=9;
     
-    int yamcosts
+    int yamcosts[3]={20,30,5};
+    cout<<"total nums";
+    cout<<yams[0]+yams[1]+yams[2]<<endl;
+    cout<<"the package with "<<yams[1]<<"yams costs";
 }
